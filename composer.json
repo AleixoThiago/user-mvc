@@ -1,0 +1,19 @@
+{
+    "name": "app/proj",
+    "description": "CRUD de usuários com MVC",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago",
+            "email": "thiago.ataleixo@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
